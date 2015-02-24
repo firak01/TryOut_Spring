@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * @date
  * @author Lindhauer
  *Aus einem Tutorial vom http://projects.spring.io/spring-framework/#quick-start
- * 
+ * t
  *The example above shows the basic concept of dependency injection,
  *the MessagePrinter is decoupled from the MessageService implementation,
  *with Spring Framework wiring everything together.
