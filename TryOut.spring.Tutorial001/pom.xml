@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>fgl.tryout.spring01</groupId>
+  <artifactId>TryOut.spring.Tutorial001</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Spring Tryout</name>
+  <description>Spring Tutorial</description>
+  
+  
+  <!-- FGL: Von der Projektseite projects.spring.io/spring-framework/ -->
+  <dependencies>
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>4.1.5.RELEASE</version>
+    </dependency>
+</dependencies>
+</project>
